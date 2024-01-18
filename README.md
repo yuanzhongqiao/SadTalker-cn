@@ -1,7 +1,7 @@
 <div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div align="center" dir="auto">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/4397546/229094115-862c747e-7397-4b54-ba4a-bd368bfe2e0f.png"><img src="https://user-images.githubusercontent.com/4397546/229094115-862c747e-7397-4b54-ba4a-bd368bfe2e0f.png" width="500px" style="max-width: 100%;"></a>
 
-<p dir="auto"><a href="https://arxiv.org/abs/2211.12194" rel="nofollow"><img src="https://camo.githubusercontent.com/c7e05364b77c87f44215aabcab4d33da44e652545b43c0c043299c50c1b5b576/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41725869762d5044462d726564" data-canonical-src="https://img.shields.io/badge/ArXiv-PDF-red" style="max-width: 100%;"></a> &nbsp; <a href="https://sadtalker.github.io" rel="nofollow"><img src="https://camo.githubusercontent.com/cf1dae2363e32d85c846383e22e7fd74184899e8ff50223697bd5b026fd43330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742d506167652d477265656e" data-canonical-src="https://img.shields.io/badge/Project-Page-Green" style="max-width: 100%;"></a> &nbsp; <a href="https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="在 Colab 中打开" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a> &nbsp; <a href="https://huggingface.co/spaces/vinthony/SadTalker" rel="nofollow"><img src="https://camo.githubusercontent.com/5762a687b24495afb299c2c0bc68674a2a7dfca9bda6ee444b9da7617d4223a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565" alt="拥抱脸部空间" data-canonical-src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" style="max-width: 100%;"></a> &nbsp; <a href="https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/80f02cb87dbc34d51e15096f554d2896441d2ea2bd0c422b20079a0f755049e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4175746f6d61746963313131312d436f6c61622d677265656e" alt="SD webui-colab" data-canonical-src="https://img.shields.io/badge/Automatic1111-Colab-green" style="max-width: 100%;"></a> &nbsp; <br> <a href="https://replicate.com/cjwbw/sadtalker" rel="nofollow"><img src="https://camo.githubusercontent.com/768f5b31756602de0ea978b384a5e7e78ff0b60aa4cc198abc301ad9d353842f/68747470733a2f2f7265706c69636174652e636f6d2f636a7762772f73616474616c6b65722f6261646765" alt="复制" data-canonical-src="https://replicate.com/cjwbw/sadtalker/badge" style="max-width: 100%;"></a> <a href="https://discord.gg/rrayYqZ4tf" rel="nofollow"><img src="https://camo.githubusercontent.com/3fb556fccc4fa5072c0b1f33ad4286c72b7520f497f75d9734adb92375e0d6bd/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f7272617959715a3474663f7374796c653d666c6174" alt="不和谐" data-canonical-src="https://dcbadge.vercel.app/api/server/rrayYqZ4tf?style=flat" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://arxiv.org/abs/2211.12194" rel="nofollow"><img src="https://camo.githubusercontent.com/c7e05364b77c87f44215aabcab4d33da44e652545b43c0c043299c50c1b5b576/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41725869762d5044462d726564" data-canonical-src="https://img.shields.io/badge/ArXiv-PDF-red" style="max-width: 100%;"></a> &nbsp; <a href="https://sadtalker.github.io" rel="nofollow"><img src="https://camo.githubusercontent.com/cf1dae2363e32d85c846383e22e7fd74184899e8ff50223697bd5b026fd43330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50726f6a6563742d506167652d477265656e" data-canonical-src="https://img.shields.io/badge/Project-Page-Green" style="max-width: 100%;"></a> &nbsp; <a href="https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="在 Colab 中打开" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a> &nbsp; <a href="https://huggingface.co/spaces/vinthony/SadTalker" rel="nofollow"><img src="https://camo.githubusercontent.com/5762a687b24495afb299c2c0bc68674a2a7dfca9bda6ee444b9da7617d4223a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625413425393725323048756767696e67253230466163652d5370616365732d626c7565" alt="HuggingFace空间" data-canonical-src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" style="max-width: 100%;"></a> &nbsp; <a href="https://colab.research.google.com/github/camenduru/stable-diffusion-webui-colab/blob/main/video/stable/stable_diffusion_1_5_video_webui_colab.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/80f02cb87dbc34d51e15096f554d2896441d2ea2bd0c422b20079a0f755049e3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4175746f6d61746963313131312d436f6c61622d677265656e" alt="SD webui-colab" data-canonical-src="https://img.shields.io/badge/Automatic1111-Colab-green" style="max-width: 100%;"></a> &nbsp; <br> <a href="https://replicate.com/cjwbw/sadtalker" rel="nofollow"><img src="https://camo.githubusercontent.com/768f5b31756602de0ea978b384a5e7e78ff0b60aa4cc198abc301ad9d353842f/68747470733a2f2f7265706c69636174652e636f6d2f636a7762772f73616474616c6b65722f6261646765" alt="复制" data-canonical-src="https://replicate.com/cjwbw/sadtalker/badge" style="max-width: 100%;"></a> <a href="https://discord.gg/rrayYqZ4tf" rel="nofollow"><img src="https://camo.githubusercontent.com/3fb556fccc4fa5072c0b1f33ad4286c72b7520f497f75d9734adb92375e0d6bd/68747470733a2f2f646362616467652e76657263656c2e6170702f6170692f7365727665722f7272617959715a3474663f7374796c653d666c6174" alt="不和谐" data-canonical-src="https://dcbadge.vercel.app/api/server/rrayYqZ4tf?style=flat" style="max-width: 100%;"></a></p>
 <div dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     张文轩</font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*,1,2</font></font></sup> &emsp;
     <a href="https://vinthony.github.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">村晓东</font></font><sup><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">*,2</font></font></sup></a>&emsp;
@@ -24,27 +24,7 @@
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://user-images.githubusercontent.com/4397546/222490039-b1f6156b-bf00-405b-9fda-0c9a9156f991.gif" target="_blank">
           
-        <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="悲言者" class="AnimatedImagePlayer-animatedImage" src="https://user-images.githubusercontent.com/4397546/222490039-b1f6156b-bf00-405b-9fda-0c9a9156f991.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="505" height="224"></canvas></span></a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩悲伤语者" hidden=""></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩悲伤语者">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="在新窗口中打开悲伤语者" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/4397546/222490039-b1f6156b-bf00-405b-9fda-0c9a9156f991.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
+       
 <p dir="auto"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TL;DR：单个肖像图像 🙎&zwj;♂️ + 音频 🎤 = 头部说话视频 🎞。</font></font></b></p>
 <br>
 </div>
@@ -170,30 +150,7 @@ pip install -r requirements.txt
 <span class="pl-c"><span class="pl-c">#</span>## Coqui TTS is optional for gradio demo. </span>
 <span class="pl-c"><span class="pl-c">#</span>## pip install TTS</span>
 </pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="git clone https://github.com/OpenTalker/SadTalker.git
-
-cd SadTalker 
-
-conda create -n sadtalker python=3.8
-
-conda activate sadtalker
-
-pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1 --extra-index-url https://download.pytorch.org/whl/cu113
-
-conda install ffmpeg
-
-pip install -r requirements.txt
-
-### Coqui TTS is optional for gradio demo. 
-### pip install TTS
-" tabindex="0" role="button">
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
-    <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
-</svg>
-      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check js-clipboard-check-icon color-fg-success d-none">
-    <path d="M13.78 4.22a.75.75 0 0 1 0 1.06l-7.25 7.25a.75.75 0 0 1-1.06 0L2.22 9.28a.751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018L6 10.94l6.72-6.72a.75.75 0 0 1 1.06 0Z"></path>
-</svg>
-    </clipboard-copy>
+     
   </div></div>
 <h3 tabindex="-1" dir="auto"><a id="user-content-windows" class="anchor" aria-hidden="true" tabindex="-1" href="#windows"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视窗</font></font></h3>
 <p dir="auto"><font style="vertical-align: inherit;"></font><a href="https://www.bilibili.com/video/BV1Dc411W7V6/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">此处</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">提供中文视频教程</font><font style="vertical-align: inherit;">。</font><font style="vertical-align: inherit;">您还可以按照以下说明操作：</font></font></p>
